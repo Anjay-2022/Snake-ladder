@@ -117,9 +117,7 @@ public class SnakeAndLadder {
 			System.out.println("Player1 won the game in "+counter1+"chance");
 		} else if(player2 == 100) {
 			System.out.println("Player2 won the game"+counter2+"chance");
-		} else {
-			System.out.println("pilagaye ho tum");
-		}
+		} 
 
 	}
 }
